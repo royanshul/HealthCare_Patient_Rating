@@ -1,6 +1,6 @@
 # HealthCare_Patient_Rating
 
-Additional Data for this can be found at Google Drive Link: https://drive.google.com/open?id=0ByejGgzAgireOG1WNXo5OHBydTA  or https://data.medicare.gov/data/archives/hospital-compare
+Additional Data for this can be found at https://data.medicare.gov/data/archives/hospital-compare
 
 Business understanding
 CMS rates hospitals in the US on a scale of 1-5 with the objective to make it easier for patients and consumers to compare the quality of hospitals.
